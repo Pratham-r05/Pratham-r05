@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
-<h3 align="center">A passionate Android developer</h3>
-<img align ="right" alt = "coding" width "400" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<h3 align="center">A passionate about learning & Developing!!
+<img align ="center= "coding" width "400" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <a href="https://twitter.com/pratham057" target="blank"><img src="https://img.shields.io/twitter/follow/pratham057?logo=twitter&style=for-the-badge" alt="pratham057" /></a> </p>
 
 - 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM**
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/pratham057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham057" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham raj" height="30" width="40" /></a>
-<a href="https://instagram.com/pratham.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham.r" height="30" width="40" /></a>
+<a href="https://instagram.com/Pratham.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham.r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
