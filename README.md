@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" alt="animated hello">
-</div>
-
-<div align="center">
   
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" alt="animated hello">
+  
+  <br/>
+
   <a href="https://github.com/Pratham-r05">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Pratham+Raj;MLOps+%26+Deep+Learning+Engineer;Building+Agentic+AI+Systems" alt="Typing SVG" />
   </a>
@@ -40,15 +40,15 @@
 
 </div>
 
-</div>
+<br/>
 
 <h3 align="left">💫 About Me</h3>
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
       I am a <b>4th-year Data Science student</b> and a <b>fresher</b> on a mission to push the boundaries of Artificial Intelligence. I specialize in building end-to-end Machine Learning pipelines and developing intelligent applications using the latest LLM frameworks. Currently, I'm deep-diving into <b>Agentic AI</b> and <b>LLMOps</b> to bridge the gap between research and production.
       <br/><br/>
-      🔭 <b>Currently working on:</b> Advanced LLM framework(LangChain)<br/>
+      🔭 <b>Currently working on:</b> Advanced LLM framework (LangChain)<br/>
       ⚡ <b>Recent Sprint:</b> 60-day DSA implementation challenge<br/>
       🎯 <b>Goal:</b> Mastering LLMOps to simplify complex AI workflows<br/>
     </td>
@@ -57,6 +57,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 <div align="center">
@@ -87,16 +89,6 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 
 </div>
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Med.io](https://github.com/Pratham-r05/Med.io)** | AI health assistant analyzing medical reports/images. | Local LLM, Streamlit, Python |
-| **[Neural Network Scratch](https://github.com/Pratham-r05/Neural-Network-from-Scratch-Pure-Maths-and-NumPy)** | MNIST classification built with pure NumPy/Math. | NumPy, Pandas, OOP |
-| **[Churn Prediction](https://github.com/Pratham-r05/Customer-Churn-Prediction-Using-ANN)** | End-to-end ANN project for customer retention. | ANN, Scikit-learn, Python |
 
 <p align="center">
   <i>"Building the future, one neuron at a time."</i>
