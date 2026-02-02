@@ -7,11 +7,11 @@
 ---
 
 ### 💫 About Me
-I am a **4th-year Computer Science student** and a **fresher** on a mission to push the boundaries of Artificial Intelligence. I specialize in building end-to-end Machine Learning pipelines and developing intelligent applications using the latest LLM frameworks. Currently, I'm deep-diving into **Agentic AI** and **LLMOps** to bridge the gap between research and production.
+I am a **4th-year Data Science student** and a **fresher** on a mission to push the boundaries of Artificial Intelligence. I specialize in building end-to-end Machine Learning pipelines and developing intelligent applications using the latest LLM frameworks. Currently, I'm deep-diving into **Agentic AI** and **LLMOps** to bridge the gap between research and production.
 
-- 🔭 **Currently working on:** Advanced Medical AI Assistants ([Med.io](https://github.com/Pratham-r05/Med.io))
-- ⚡ **Recent Sprint:** 10-day deep learning implementation challenge.
-- 🎯 **Goal:** Mastering MLOps to simplify complex AI workflows.
+- 🔭 **Currently working on:** Advanced LLM framework (LangChain,LangGraph)
+- ⚡ **Recent Sprint:** 60-day DSA implementation challenge.
+- 🎯 **Goal:** Mastering LLOps to simplify complex AI workflows.
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pratham-raj-156a711a0)
 
 ---
