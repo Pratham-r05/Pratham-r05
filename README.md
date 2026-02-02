@@ -97,9 +97,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham-r05&theme=tokyonight&area=true" alt="GitHub Contribution Graph" />
-</p>
+<h3 align="left">🐍 Contribution Snake</h3>
+<div align="center">
+  <img src="https://github.com/Pratham-r05/Pratham-r05/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
