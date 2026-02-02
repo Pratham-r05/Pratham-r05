@@ -42,8 +42,6 @@
 
 </div>
 
----
-
 <h3 align="left">💫 About Me</h3>
 <table border="0">
   <tr>
@@ -60,7 +58,7 @@
   </tr>
 </table>
 
----
+
 
 ### 🛠 Tech Stack & Tools
 
@@ -93,16 +91,6 @@
 | **[Med.io](https://github.com/Pratham-r05/Med.io)** | AI health assistant analyzing medical reports/images. | Local LLM, Streamlit, Python |
 | **[Neural Network Scratch](https://github.com/Pratham-r05/Neural-Network-from-Scratch-Pure-Maths-and-NumPy)** | MNIST classification built with pure NumPy/Math. | NumPy, Pandas, OOP |
 | **[Churn Prediction](https://github.com/Pratham-r05/Customer-Churn-Prediction-Using-ANN)** | End-to-end ANN project for customer retention. | ANN, Scikit-learn, Python |
-
----
-
-### 📊 GitHub Stats
-<h3 align="left">🐍 Contribution Snake</h3>
-<div align="center">
-  <img src="https://github.com/Pratham-r05/Pratham-r05/raw/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 <p align="center">
   <i>"Building the future, one neuron at a time."</i>
