@@ -52,11 +52,7 @@ I am a **4th-year Computer Science student** and a **fresher** on a mission to p
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham-r05&show_icons=true&theme=tokyonight" alt="Pratham's GitHub stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-r05&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham-r05&theme=tokyonight&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
