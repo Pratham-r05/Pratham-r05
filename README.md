@@ -2,11 +2,29 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
 </div>
 
-# 👨‍💻 Pratham Raj | AI & MLOps Engineer 🚀
+<div align="center">
+  
+  <a href="https://github.com/Pratham-r05">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Pratham+Raj;MLOps+%26+Deep+Learning+Engineer;Building+Agentic+AI+Systems" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Deep+Learning+Enthusiast;LLM+Ops+Specialist;GenAI+Developer;Agentic+AI+Explorer" alt="Typing SVG" />
-</p>
+  <p align="center" style="margin-top: -10px;">
+    <i>Turning Concept into Code. Transforming Data into Intelligence.</i>
+  </p>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/pratham-raj-156a711a0" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin"/>
+    </a>
+    <a href="https://leetcode.com/Pratham_raj90" target="_blank">
+      <img src="https://skillicons.dev/icons?i=leetcode" height="30" alt="leetcode"/>
+    </a>
+    <a href="mailto:prathamraj@example.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail"/>
+    </a>
+  </div>
+
+</div>
 
 ---
 
