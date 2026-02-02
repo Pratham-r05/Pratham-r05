@@ -57,12 +57,6 @@ I am a **4th-year Computer Science student** and a **fresher** on a mission to p
 
 ---
 
-### 🌟 Latest Research & Learning
-- **Agentic AI:** Building autonomous agents with LangGraph and CrewAI.
-- **LLMOps:** Deploying and monitoring large language models at scale.
-- **Computer Vision:** Advanced CNN architectures and pooling strategies.
-
----
 <p align="center">
   <i>"Building the future, one neuron at a time."</i>
 </p>
