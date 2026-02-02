@@ -50,10 +50,9 @@
     <td width="55%" valign="top">
       I am a <b>4th-year Data Science student</b> and a <b>fresher</b> on a mission to push the boundaries of Artificial Intelligence. I specialize in building end-to-end Machine Learning pipelines and developing intelligent applications using the latest LLM frameworks. Currently, I'm deep-diving into <b>Agentic AI</b> and <b>LLMOps</b> to bridge the gap between research and production.
       <br/><br/>
-      🔭 <b>Currently working on:</b> Advanced LLM framework (LangChain, LangGraph)<br/>
+      🔭 <b>Currently working on:</b> Advanced LLM framework(LangChain)<br/>
       ⚡ <b>Recent Sprint:</b> 60-day DSA implementation challenge<br/>
       🎯 <b>Goal:</b> Mastering LLMOps to simplify complex AI workflows<br/>
-      🤝 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/pratham-raj-156a711a0">LinkedIn</a>
     </td>
     <td width="45%" valign="center" align="center">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100%">
