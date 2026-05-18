@@ -46,7 +46,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      I am a <b>4th-year Data Science student</b> and a <b>fresher</b> on a mission to push the boundaries of Artificial Intelligence. I specialize in building end-to-end Machine Learning pipelines and developing intelligent applications using the latest LLM frameworks. Currently, I'm deep-diving into <b>Agentic AI</b> and <b>LLMOps</b> to bridge the gap between research and production.
+      I am a <b>4th-year Data Science undergrad student</b> and a <b>fresher</b> on a mission to push the boundaries of Artificial Intelligence. I specialize in building end-to-end Machine Learning pipelines and developing intelligent applications using the latest LLM frameworks. Currently, I'm deep-diving into <b>Agentic AI</b> and <b>LLMOps</b> to bridge the gap between research and production.
       <br/><br/>
       🔭 <b>Currently working on:</b> Advanced LLM framework (LangChain)<br/>
       ⚡ <b>Recent Sprint:</b> 60-day DSA implementation challenge<br/>
