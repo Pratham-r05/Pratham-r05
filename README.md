@@ -9,7 +9,7 @@
   </a>
 
   <p align="center" style="margin-top: -10px;">
-    <i>Turning Concept into Code. Transforming Data into Intelligence.</i>
+    <i>Turning Concept into Code. Transforming Data into Intelligence..</i>
   </p>
 
   <div align="center">
