@@ -52,10 +52,15 @@
 <h3 align="left">💫 About Me</h3>
 <table border="0" width="100%">
   <tr>
-    <td width="45%" valign="center" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100%">
+    <td width="50%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+        <img alt="pratham-r05's GitHub profile" src="dark_mode.svg" width="100%" />
+      </picture>
     </td>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
+      <h3>💫 About Me</h3>
       I am a <b>4th-year Data Science undergrad student</b> and a <b>fresher</b> on a mission to push the boundaries of Artificial Intelligence. I specialize in building end-to-end Machine Learning pipelines and developing intelligent applications using the latest LLM frameworks. Currently, I'm deep-diving into <b>Agentic AI</b> and <b>LLMOps</b> to bridge the gap between research and production.
       <br/><br/>
       🔭 <b>Currently working on:</b> Advanced LLM framework (LangChain)<br/>
