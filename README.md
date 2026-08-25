@@ -1,3 +1,11 @@
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="pratham-r05's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
   
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" alt="animated hello">
